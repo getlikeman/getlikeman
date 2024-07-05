@@ -24,6 +24,7 @@ I started getting interested in web applications in my second year of college. I
 
 
 <p><a href="https://almaty.hh.kz/applicant/resumes/view?resume=3d5a57d1ff0d69a4b90039ed1f56534c4e6234 target="_blank" rel="noreferrer" >My cv </a></p>
+
 ### Badges
 
 <a href="https://github.com/getlikeman" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=getlikeman&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
