@@ -23,7 +23,23 @@ I started getting interested in web applications in my second year of college. I
 <p align="left"> <a href="https://www.github.com/getlikeman" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/никита-кононец-61a842278/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
 
 
-<p><a href="https://almaty.hh.kz/applicant/resumes/view?resume=3d5a57d1ff0d69a4b90039ed1f56534c4e6234 target="_blank" rel="noreferrer" >My cv </a></p>
+### Projects created by me or in which I took part
+  
+  [Bartr.kz (Next.js + laravel)](https://www.bartr.kz/ru)
+  
+  [Zakon & Pravo (Blade + laravel)](https://zakonpravo.kz/)
+  
+  [Kostyum.kz (Django + nuxt 3)](https://kostyum.kz/)
+  
+  [QuantumPro (Nuxt 2 SSG)](https://quantumprot.com/)
+
+  [BUKVA ZAKONA (Nuxt 3 + laravel)](https://bz.com.kz/)
+
+  [A-lux (Blade + laravel)](https://a-lux.kz/)
+
+  [Almaty kazkabel (Next.js + django)](https://cable.kz/)
+
+  [Taharqa Technologies (Vue 3 + django)](https://uav.kz/#/)
 
 ### Badges
 
