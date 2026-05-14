@@ -8,7 +8,7 @@ I started getting interested in web applications in my second year of college. I
 
 * 🌍  I'm based in Kazakstan
 * ✉️  You can contact me at [misternikir@gmail.com](mailto:misternikir@gmail.com)
-* 🚀  I'm currently working on [A-lux.kz](http://a-lux.kz/)
+
 
 ### Skills
 
