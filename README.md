@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Frontend developer
 ------------------
 
-I started getting interested in web applications in my second year of college. I have experience working with PHP and backend development in general. Among my personal skills, I can highlight communication, flexibility, proactivity and a willingness to always learn something new.
+Frontend developer with 3+ years of commercial experience developing fintech, education, e-commerce, and corporate web products. Experienced with React, Vue, Next.js, Nuxt.js, React Native, TypeScript, REST APIs, and a modern frontend stack.
 
 * 🌍  I'm based in Kazakstan
 * ✉️  You can contact me at [misternikir@gmail.com](mailto:misternikir@gmail.com)
